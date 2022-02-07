@@ -1,2 +1,0 @@
-# Schoolpy
-Aprendendo Python
